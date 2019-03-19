@@ -1,4 +1,5 @@
 # apriltags2_ros
+<<<<<<< HEAD
 
 This is a Robot Operating System (ROS) wrapper of the [AprilTags 2 visual fiducial detector](https://april.eecs.umich.edu/software/apriltag.html). For details and tutorials, please see the [ROS wiki](http://wiki.ros.org/apriltags2_ros).
 
@@ -51,3 +52,6 @@ If you use this code, please kindly cite:
   year = {2016}
 }
 ```
+=======
+ROS apriltag2
+>>>>>>> c97e6d5b340f96b017d47b481b33fff67dfbaadd
